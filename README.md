@@ -133,4 +133,42 @@ I enjoy building real-world applications that solve practical problems and help 
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishavYadav01&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishavYadav01&layout=compact&theme=tokyonight" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RishavYadav01&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RishavYadav01&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RishavYadav01&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RishavYadav01&theme=tokyonight&row=1&column=6" />
+</p>
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms in Java
+- Spring Boot Backend Development
+- System Design Fundamentals
+- Full Stack Web Development
+- Open Source Contribution
+
 ⭐ If you like my work, consider giving a star to my repositories!
